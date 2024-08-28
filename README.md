@@ -52,11 +52,6 @@ If you would like to contribute to this project, please fork the repository, cre
 
 ## Contact
 
-For any questions or feedback, please contact [Khadiza](khadizasamia7@gmail.com).
-
-
-## Contact
-
-For any questions or feedback, please contact [Khadiza](mailto:your.email@example.com).
+For any questions or feedback, please contact [Khadiza](khadizasamia7@gmail.com
 
 
